@@ -1,6 +1,7 @@
 # bookshelf
 
 Currently this project uses:
-* SemanticUI (instead of Bootstrap)
+* Bootstrap
 * Flexbox (No need to support IE)
 * Vue.js (included but not doing anything yet)
+* Google Books API
